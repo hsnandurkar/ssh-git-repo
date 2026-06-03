@@ -1,6 +1,6 @@
 # Simple Python Program
 
-a = 10
+a = 20
 b = 10
 
 sum_result = a + b
