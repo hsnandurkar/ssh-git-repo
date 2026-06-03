@@ -1,7 +1,7 @@
 # Simple Python Program
 
 a = 10
-b = 10
+b = 20
 
 sum_result = a + b
 
